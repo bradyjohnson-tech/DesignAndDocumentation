@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"SaveIntToAStack","l":"_scanner"},{"p":"<Unnamed>","c":"SaveIntToAStack","l":"GetInput()"},{"p":"<Unnamed>","c":"SaveIntToAStack","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"SaveIntToAStack","l":"SaveIntToAStack()","u":"%3Cinit%3E()"}];updateSearchResults();
